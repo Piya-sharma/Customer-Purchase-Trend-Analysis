@@ -1,5 +1,3 @@
-https://jupyter.org/try-jupyter/notebooks/?path=Python+Analysis+Project.ipynb
-
 
 # Customer Purchase Trend Analysis
 
